@@ -1,11 +1,11 @@
 # Site settings
-author: Rocio Batres
-title: 
+author: Rocio Batres 
+title: Rocio's Blog 
 header-img: img/home-bg.png
 email: jonasgirl21@gmail.com
-copyright_name: Rocio Batres
+copyright_name: Rocio Batres 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineering 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Rociobatres
