@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI : Cry, Laugh, Improvise "
-date:       2020-10-04 06:23:52 +0000
+date:       2020-10-04 02:23:53 -0400
 permalink:  cli_cry_laugh_improvise
 ---
 
